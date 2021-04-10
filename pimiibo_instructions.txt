@@ -1,2 +1,0 @@
-# Use this command line to write amibo cards
-./pimiibo ../amiibos/key.bin ../amiibos/ZTP_wolf_link_max_hearts.bin
